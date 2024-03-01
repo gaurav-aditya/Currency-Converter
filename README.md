@@ -16,6 +16,11 @@ Thank you for considering contributing to this project! Contributions are welcom
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request, describing the changes you've made and why they should be merged.
 
+## Result
+
+<img width="668" alt="image" src="https://github.com/gaurav-aditya/Currency-Converter/assets/110540811/daf4fb3a-d0df-46ae-8cb4-7311c9bbb5ee">
+
+
 ## About Me
 
 Hey there! I'm Aditya, a passionate developer with a keen interest in web development and technology. You can reach out to me via email at [echoaditya@proton.me](mailto:echoaditya@proton.me). 

@@ -1,6 +1,7 @@
 # Currency Converter
 
 This is a simple currency converter project designed using HTML, CSS, and JavaScript. It utilizes the currency converter API from the following link: [Currency Converter API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json).
+https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json
 
 ## About Currency Converter
 

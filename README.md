@@ -18,7 +18,7 @@ Thank you for considering contributing to this project! Contributions are welcom
 5. Submit a pull request, describing the changes you've made and why they should be merged.
 
 ## Result
-Check the live website [Currency Coverter](https://echoaditya-currency-converter.vercel.app/)
+Check the live website [Currency Coverter](https://echoaditya-currency-converter.vercel.app/)    [2nd Link](https://gaurav-aditya.github.io/Currency-Converter/)
 
 <img width="668" alt="image" src="https://github.com/gaurav-aditya/Currency-Converter/assets/110540811/daf4fb3a-d0df-46ae-8cb4-7311c9bbb5ee">
 
